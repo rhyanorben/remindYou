@@ -53,7 +53,8 @@ Utiliza novamente a função de "localizar", para encontrar o evento pela data.
 
 Ao encontrar o evento você visualiza o ID dele e informa o mesmo para realizar exclusão.
 
-Ao informar um ID válido o sistema retorna "ID inválido e retorna ao menu principal.
+- Ao informar um ID que não existe o sistema retorna "ID inválido" e retorna ao menu principal.
+- Ao informar um ID válido, ele realiza a exclusão do evento e reorganiza o ID de todos os outros existentes para uma nova sequência ordenada.  
 
 ### 5. Sair <a name="sair"></a>
 
