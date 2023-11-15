@@ -10,7 +10,7 @@ Sistema desenvolvido na linguagem de programação **C** para organizar os seus 
 4. [Excluir evento](#excluir-evento)
 5. [Sair](#sair)
 
-#### 1. Adicionar <a name="adicionar-evento"></a>
+#### 1. Adicionar evento <a name="adicionar-evento"></a>
 
 Tela para adicionar um novo evento no programa.
 
